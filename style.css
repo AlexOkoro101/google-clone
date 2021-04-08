@@ -141,7 +141,7 @@ body {
 }
 .languages {
     margin-bottom: 24px;
-    flex-grow: 1;
+    padding-bottom: 150px;
 }
 .languages p {
     line-height: 28px;
@@ -217,5 +217,5 @@ body {
 .country {
     /* flex-grow: 1;
     flex-shrink: 0; */
-    margin-top: 185px;
+ 
 }
